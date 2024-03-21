@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Utku</h1>
-<h3 align="center">A fullstack developer whose database has been deleted</h3>
+<h1 style="text-color:red" align="center">Hi 👋, I'm Utku</h1>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
